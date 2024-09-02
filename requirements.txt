@@ -1,0 +1,8 @@
+dnspython~=2.1.0
+python-whois~=0.9.4
+phonenumbers~=8.13.43
+folium~=0.17.0
+geopy~=2.4.1
+pillow~=10.4.0
+pdfminer~=20191125
+docx~=0.2.4
